@@ -1,6 +1,7 @@
 import './App.css';
 import LandingPage from './screens/landing';
 import React from "react";
+import Peer from 'peerjs';
 
 function App() {
   return (
