@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lantern/static/css/main.c8c7d24f.chunk.css",
+    "main.js": "/lantern/static/js/main.6a463d11.chunk.js",
+    "main.js.map": "/lantern/static/js/main.6a463d11.chunk.js.map",
+    "runtime-main.js": "/lantern/static/js/runtime-main.d50c1c08.js",
+    "runtime-main.js.map": "/lantern/static/js/runtime-main.d50c1c08.js.map",
+    "static/js/2.bd2b9fb6.chunk.js": "/lantern/static/js/2.bd2b9fb6.chunk.js",
+    "static/js/2.bd2b9fb6.chunk.js.map": "/lantern/static/js/2.bd2b9fb6.chunk.js.map",
+    "static/js/3.6071950a.chunk.js": "/lantern/static/js/3.6071950a.chunk.js",
+    "static/js/3.6071950a.chunk.js.map": "/lantern/static/js/3.6071950a.chunk.js.map",
+    "index.html": "/lantern/index.html",
+    "static/css/main.c8c7d24f.chunk.css.map": "/lantern/static/css/main.c8c7d24f.chunk.css.map",
+    "static/js/2.bd2b9fb6.chunk.js.LICENSE.txt": "/lantern/static/js/2.bd2b9fb6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d50c1c08.js",
+    "static/js/2.bd2b9fb6.chunk.js",
+    "static/css/main.c8c7d24f.chunk.css",
+    "static/js/main.6a463d11.chunk.js"
+  ]
+}
