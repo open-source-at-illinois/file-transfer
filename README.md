@@ -29,6 +29,10 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `yarn deploy`
+
+Manually deploys Lantern to production at [https://open-source-at-illinois.github.io/lantern/](https://open-source-at-illinois.github.io/lantern/) and make sure you are on the branch that you want to deploy! (Deploys the current branch you are on to gh-pages. Changes will then be shown at the live site)
+
 ### `yarn eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
